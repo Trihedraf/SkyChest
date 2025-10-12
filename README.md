@@ -2,6 +2,22 @@
 
 SkyBlock Condensed to a Chest
 
+## Starting Island
+
+- Chest
+    - 1 x Ice
+    - 1 x Lava Bucket
+    - 2 x Oak Sapling
+    - 1 x Sugar Cane
+    - 1 x Cocoa Beans
+    - 1 x Sweet Berries
+    - 8 x Bone Meal
+    - 4 x Oak Log
+    - 32 x Cobblestone
+    - 1 x Grass Block
+    - 1 x Moss Block
+    - 32 x Dirt
+
 ## Changes
 
 ### Trading
