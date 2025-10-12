@@ -1,0 +1,9 @@
+{
+    "pack":
+    {
+        "pack_format": 88,
+        "description": "SkyChest",
+        "min_format": 88,
+        "max_format": 88
+    }
+}

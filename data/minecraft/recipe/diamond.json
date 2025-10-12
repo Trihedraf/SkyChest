@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "C": [
+      "minecraft:coal",
+      "minecraft:charcoal"
+    ],
+    "I": "minecraft:iron_block"
+  },
+  "pattern": [
+    "GIG",
+    " C ",
+    "GIG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond"
+  }
+}

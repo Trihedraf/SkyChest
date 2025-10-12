@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "D": "minecraft:diamond_block",
+    "I": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    "GDG",
+    " I ",
+    "GDG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_ingot"
+  }
+}

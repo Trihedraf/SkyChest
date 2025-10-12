@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		"minecraft:cobblestone",
+		"minecraft:honey_bottle"
+	],
+	"result": {
+	  "id": "minecraft:resin_block",
+	  "count": 1
+	}
+  }

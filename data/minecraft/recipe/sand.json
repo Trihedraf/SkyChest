@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients":
+    [
+	    "minecraft:gravel",
+	    "minecraft:bone_meal"
+    ],
+    "result":
+    {
+    	"id": "minecraft:sand",
+		"count": 1
+	}	
+}

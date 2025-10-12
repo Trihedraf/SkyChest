@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients":
+    [
+	    "minecraft:cobblestone",
+	    "#minecraft:coals"
+    ],
+    "result":
+    {
+    	"id": "minecraft:tuff",
+		"count": 1
+	}	
+}

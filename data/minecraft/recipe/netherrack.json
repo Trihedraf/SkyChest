@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		"minecraft:cobblestone",
+		"minecraft:redstone"
+	],
+	"result": {
+	  "id": "minecraft:netherrack",
+	  "count": 1
+	}
+  }
